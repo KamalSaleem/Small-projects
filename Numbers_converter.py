@@ -1,7 +1,3 @@
-import sys
-
-
-
 def main():
     print("---------welcome to the numbers converter.")
     print("---------This program will convert any number to its appriprate")
@@ -82,7 +78,7 @@ def main():
             input("Press Enter to continue...")
             continue
         else:
-            sys.exit()
+            break
 
 
 
